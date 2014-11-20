@@ -13,3 +13,6 @@ Erweiterte Funktionen gegenüber "LEAVE PLAN for OrangeHRM 3.1.2"
 * Bisschen CSS für gleichmässigeres Layout
 * Bisschen JS für einfachere Bedienung
 * Kompatibel mit aktuelleren OrangeHRM Versionen
+
+Screenshot:
+![Screenshot](https://cloud.githubusercontent.com/assets/5032145/5124729/9a0da9a6-70bb-11e4-99d8-1eb226732a10.png)
